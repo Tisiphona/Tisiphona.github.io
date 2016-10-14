@@ -358,6 +358,10 @@ input:nth-child(4) {
 /*****************************************************************************/
 /* Thumbnail boxes for the galleries.                                        */
 /*****************************************************************************/
+.highslide-gallery {
+	background-color:#e6f4ef;
+}
+
 .highslide-gallery ul {
 	list-style-type: none;
 	margin: 0;
