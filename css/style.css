@@ -31,7 +31,7 @@ h1 {color:#2aa1a8;}
 	width:960px;
 	height:inherit;
 	background:#00577b;
-	background:url("https://github.com/Tisiphona/Tisiphona.github.io/blob/master/img/header.jpg");
+	background:url("https://github.com/Tisiphona/Tisiphona.github.io/blob/master/img/header.jpg" no-repeat);
 	position: fixed;
     z-index: 9999;
 	}
