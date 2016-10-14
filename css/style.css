@@ -368,7 +368,7 @@ input:nth-child(4) {
 }
 .highslide-gallery ul li {
 	display: block;
-	/*position: relative;*/
+	position: relative;
 	float: left;
 	width: 316px;
 	height: 280px;
