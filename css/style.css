@@ -269,7 +269,7 @@ input:nth-child(4) {
 }
 
 .fourth-page {
-	width: 100%;
+	width: inherit;
 	height: 100%;
 }
 
