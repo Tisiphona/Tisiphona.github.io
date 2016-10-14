@@ -269,7 +269,8 @@ input:nth-child(4) {
 }
 
 .fourth-page {
-	width: inherit;
+	width: 960px;
+	background:inherit;
 	height: 100%;
 }
 
