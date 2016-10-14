@@ -28,7 +28,7 @@ h1 {color:#2aa1a8;}
  }
 
 .header {
-	width:97%;
+	width:inherit;
 	height:inherit;
 	background:#00577b;
 	background-image:url("../img/header.jpg") no-repeat;
