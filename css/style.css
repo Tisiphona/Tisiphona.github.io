@@ -182,7 +182,7 @@ cursor: pointer;}
 	height:1300px;}
 
 .third-page h2 {color:#2aa1a8;
-				padding:10px 30px;
+		padding:10px 30px;
 				}
 
 .third-page .table {
@@ -226,7 +226,7 @@ cursor: pointer;}
 .fourth-page h1 {padding:10px;}
 
 .fifth-page h1 {margin-left:30px;
-				padding:20px 0;}
+		padding:20px 0;}
 
 .fifth-page .left, .fifth-page .mid, .fifth-page .right{
 	margin:0 30px;
@@ -361,6 +361,12 @@ input:nth-child(4) {
 /*****************************************************************************/
 /* Thumbnail boxes for the galleries.                                        */
 /*****************************************************************************/
+
+.highslide-gallery {
+	width:100%;
+	background:#e6f4ef;
+}
+
 .highslide-gallery ul {
 	list-style-type: none;
 	margin: 0;
