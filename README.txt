@@ -1,0 +1,1 @@
+An amateurish Russian version of http://www.foldvik-bryggeferie.com/1_1_Home.html, with the permission of the owner
